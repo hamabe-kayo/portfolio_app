@@ -1,24 +1,30 @@
-# README
+# <ここにアプリ名を入力>
+まいメディサーチ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+クリニックや医院などの口コミ投稿、閲覧、受診予約ができるサイト
 
-Things you may want to cover:
+### サイトテーマ
+かかりつけ医を探したり、受診の予約を取ることができる
 
-* Ruby version
+### テーマを選んだ理由
+総合病院で勤務経験があり、予約外の患者さんが多いときは先生の診察の負担や患者さんの待ち時間の増加などでスムーズに診察できないことが多々ありました。かかりつけ医がないという方もいらっしゃいました。そこで、かかりつけ医を探すことができ、口コミの閲覧や空き状況や受診の予約ができるサービスで少しでも医師の負担や素早く診察をすることができるようになればと思います。
 
-* System dependencies
+### ターゲットユーザ
+まだかかりつけ医がない方、今のかかりつけ医とは別で探したい方
 
-* Configuration
+### 主な利用シーン
+かかりつけ医を探したい時、受診したい時の空き状況確認、受診の予約を取りたい時
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1cJoCq01Hyv4g6-J6hau7K9iCKj0DY867sjLXZIvmBEM/edit#gid=0
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
